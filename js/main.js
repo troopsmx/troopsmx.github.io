@@ -7,7 +7,7 @@ $('#vimeo').magnificPopup({
 
 $('#youtube').magnificPopup({
 	items: {
-		src: 'https://www.youtube.com/watch?v=124qhYkJG2w'
+		src: 'https://www.youtube.com/watch?v=E9vmDWhV-Dk'
 	},
 	type: 'iframe'
 });
