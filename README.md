@@ -1,1 +1,0 @@
-troopsmx.github.io
