@@ -1,16 +1,19 @@
-$('#vimeo').magnificPopup({
+
+$('#youtube').magnificPopup({
 	items: {
-		src: 'https://vimeo.com/148198462'
+		src: 'https://www.youtube.com/watch?v=mhxCKVou3WA'
 	},
 	type: 'iframe'
 });
 
-$('#youtube').magnificPopup({
+
+$('#test').magnificPopup({
 	items: {
 		src: 'https://www.youtube.com/watch?v=E9vmDWhV-Dk'
 	},
 	type: 'iframe'
 });
+
 
 ;(function () {
 	
