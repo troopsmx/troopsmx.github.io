@@ -1,7 +1,7 @@
 
 $('#youtube').magnificPopup({
 	items: {
-		src: 'https://www.youtube.com/watch?v=mhxCKVou3WA'
+		src: 'https://www.youtube.com/watch?v=E9vmDWhV-Dk'
 	},
 	type: 'iframe'
 });
@@ -9,7 +9,7 @@ $('#youtube').magnificPopup({
 
 $('#test').magnificPopup({
 	items: {
-		src: 'https://www.youtube.com/watch?v=E9vmDWhV-Dk'
+		src: 'https://www.youtube.com/watch?v=mhxCKVou3WA'
 	},
 	type: 'iframe'
 });
