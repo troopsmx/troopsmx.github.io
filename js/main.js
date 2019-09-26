@@ -1,5 +1,5 @@
 
-$('#youtube').magnificPopup({
+$('#tomaelcontrol').magnificPopup({
 	items: {
 		src: 'https://www.youtube.com/watch?v=E9vmDWhV-Dk'
 	},
@@ -7,9 +7,53 @@ $('#youtube').magnificPopup({
 });
 
 
-$('#test').magnificPopup({
+$('#maxima').magnificPopup({
 	items: {
-		src: 'https://www.youtube.com/watch?v=mhxCKVou3WA'
+		src: ''
+	},
+	type: 'iframe'
+});
+
+$('#murano').magnificPopup({
+	items: {
+		src: ''
+	},
+	type: 'iframe'
+});
+
+$('#offsiteweek').magnificPopup({
+	items: {
+		src: ''
+	},
+	type: 'iframe'
+});
+
+$('#betrue').magnificPopup({
+	items: {
+		src: ''
+	},
+	type: 'iframe'
+});
+
+$('#nikon').magnificPopup({
+	items: {
+		src: ''
+	},
+	type: 'iframe'
+});
+
+
+$('#yfu').magnificPopup({
+	items: {
+		src: ''
+	},
+	type: 'iframe'
+});
+
+
+$('#leaf').magnificPopup({
+	items: {
+		src: ''
 	},
 	type: 'iframe'
 });
